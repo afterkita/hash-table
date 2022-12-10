@@ -1,0 +1,55 @@
+Key  Data
+0 - ['Consider', 'Consider', 'an', 'extreme', 'case:', 'Our', 'hash', 'function', 'will', 'be', 'first', 'second', 'deside']
+1 - None
+2 - None
+3 - None
+4 - None
+5 - None
+6 - None
+7 - None
+8 - None
+9 - None
+10 - ['h(x)', 'So,']
+11 - ['=', 'hash', 'is', 'bucket']
+12 - ['1.', 'that']
+13 - ['That’s', 'key,', 'like']
+14 - ['right,', 'look', 'this:']
+15 - ['each', 'constant']
+16 - ['input', 'we', 'the']
+17 - ['produces', 'assign', 'result']
+18 - ['the']
+19 - ['same']
+20 - None
+21 - ['value.', 'node']
+22 - None
+23 - ['what', 'meaning']
+24 - ['happens?', 'would']
+25 - ['Every', 'output']
+26 - ['time', '1.']
+27 - None
+28 - None
+29 - ['a', 'The']
+30 - None
+31 - None
+32 - None
+33 - None
+34 - ['1,']
+35 - None
+36 - ['that', 'something']
+37 - ['we']
+38 - None
+39 - None
+40 - None
+41 - ['to']
+42 - None
+43 - None
+44 - None
+45 - None
+46 - None
+47 - None
+48 - None
+49 - None
+50 - None
+51 - None
+52 - None
+53 - None

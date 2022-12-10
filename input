@@ -1,0 +1,1 @@
+Consider an extreme case: Our hash function will be h(x) = 1. That’s right, each input produces the same constant value. So, what happens? Every time we hash a key, the output is 1, meaning that we assign that node to bucket 1. The result would look something like this:
