@@ -69,8 +69,8 @@ with open("output.txt", mode="w") as f1:
     for i in range(0, ht.Sizze()):
         f1.write(str(i)+ ' - ' + str(ht.find(str(i))) +'\n')
 
-#print(ht.find("4"))
-#print(ht.find("6"))
+print(ht.find("4"))
+print(ht.find("6"))
 #ht.remove("4")
 #print(ht.find("4"))
 #print('----')
